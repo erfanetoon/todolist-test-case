@@ -1,0 +1,8 @@
+export const SET_INITIAL_STATE = "SET_INITIAL_STATE";
+export const CHANGE_ACTIVE_DATE = "CHANGE_ACTIVE_DATE";
+
+export const EVENT_LOADING = "EVENT_LOADING";
+export const EVENT_NOT_LOADING = "EVENT_NOT_LOADING";
+export const ADD_EVENT = "ADD_EVENT";
+export const EDIT_EVENT = "EDIT_EVENT";
+export const DELETE_EVENT = "DELETE_EVENT";
