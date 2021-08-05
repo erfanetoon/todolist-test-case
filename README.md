@@ -1,10 +1,13 @@
 # It's a calendar app
 
-Starter Kit => Create React App
-Router => React Router
+Starter Kit => **Create React App**
 
-UI Kit => Material UI
-Css => Styled Components
+Router => **React Router**
 
-State Manager => Redux
-Middleware => Thunk
+UI Kit => **Material UI**
+
+Css => **Styled Components**
+
+State Manager => **Redux**
+
+Middleware => **Thunk**
